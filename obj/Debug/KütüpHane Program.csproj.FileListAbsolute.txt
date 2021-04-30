@@ -1,0 +1,10 @@
+D:\VB\KütüpHane Program\bin\Debug\KütüpHane Program.exe.config
+D:\VB\KütüpHane Program\bin\Debug\KütüpHane Program.exe
+D:\VB\KütüpHane Program\bin\Debug\KütüpHane Program.pdb
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane Program.csprojAssemblyReference.cache
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane_Program.Properties.Resources.resources
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane Program.csproj.GenerateResource.cache
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane Program.csproj.CoreCompileInputs.cache
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane Program.exe
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane Program.pdb
+D:\VB\KütüpHane Program\obj\Debug\KütüpHane_Program.uyelik.resources
